@@ -1,0 +1,16 @@
+C:\Users\B19KosikA\Desktop\WFADolgozat-Alex\WFADolgozat\bin\Debug\net7.0-windows\WFADolgozat.exe
+C:\Users\B19KosikA\Desktop\WFADolgozat-Alex\WFADolgozat\bin\Debug\net7.0-windows\WFADolgozat.deps.json
+C:\Users\B19KosikA\Desktop\WFADolgozat-Alex\WFADolgozat\bin\Debug\net7.0-windows\WFADolgozat.runtimeconfig.json
+C:\Users\B19KosikA\Desktop\WFADolgozat-Alex\WFADolgozat\bin\Debug\net7.0-windows\WFADolgozat.dll
+C:\Users\B19KosikA\Desktop\WFADolgozat-Alex\WFADolgozat\bin\Debug\net7.0-windows\WFADolgozat.pdb
+C:\Users\B19KosikA\Desktop\WFADolgozat-Alex\WFADolgozat\obj\Debug\net7.0-windows\WFADolgozat.FrmMain.resources
+C:\Users\B19KosikA\Desktop\WFADolgozat-Alex\WFADolgozat\obj\Debug\net7.0-windows\WFADolgozat.csproj.GenerateResource.cache
+C:\Users\B19KosikA\Desktop\WFADolgozat-Alex\WFADolgozat\obj\Debug\net7.0-windows\WFADolgozat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B19KosikA\Desktop\WFADolgozat-Alex\WFADolgozat\obj\Debug\net7.0-windows\WFADolgozat.AssemblyInfoInputs.cache
+C:\Users\B19KosikA\Desktop\WFADolgozat-Alex\WFADolgozat\obj\Debug\net7.0-windows\WFADolgozat.AssemblyInfo.cs
+C:\Users\B19KosikA\Desktop\WFADolgozat-Alex\WFADolgozat\obj\Debug\net7.0-windows\WFADolgozat.csproj.CoreCompileInputs.cache
+C:\Users\B19KosikA\Desktop\WFADolgozat-Alex\WFADolgozat\obj\Debug\net7.0-windows\WFADolgozat.dll
+C:\Users\B19KosikA\Desktop\WFADolgozat-Alex\WFADolgozat\obj\Debug\net7.0-windows\refint\WFADolgozat.dll
+C:\Users\B19KosikA\Desktop\WFADolgozat-Alex\WFADolgozat\obj\Debug\net7.0-windows\WFADolgozat.pdb
+C:\Users\B19KosikA\Desktop\WFADolgozat-Alex\WFADolgozat\obj\Debug\net7.0-windows\WFADolgozat.genruntimeconfig.cache
+C:\Users\B19KosikA\Desktop\WFADolgozat-Alex\WFADolgozat\obj\Debug\net7.0-windows\ref\WFADolgozat.dll
